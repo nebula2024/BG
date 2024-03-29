@@ -21,8 +21,8 @@ Main functions:
 -Clean up contacts
 -View system information
 
-![Simulator Screenshot - iPhone 8 Plus - 2024-03-28 at 23 21 08](https://github.com/nebula2024/BG/assets/165248011/c65fc4d6-3161-4c00-a7e4-e2870d559ea2)
+![Simulator Screenshot - iPhone Xs Max - 2024-03-28 at 23 01 40](https://github.com/nebula2024/BG/assets/165248011/3af39a7c-11f8-4915-95fa-adefa997c586)
 
-![Simulator Screenshot - iPhone 8 Plus - 2024-03-28 at 23 21 17](https://github.com/nebula2024/BG/assets/165248011/50a9dc93-bccb-4b0d-8afb-7d8f604954ad)
+![Simulator Screenshot - iPhone Xs Max - 2024-03-28 at 23 03 02](https://github.com/nebula2024/BG/assets/165248011/f1c99874-f404-41ee-bb69-e905237eb12d)
 
-![Simulator Screenshot - iPhone 8 Plus - 2024-03-28 at 23 21 26](https://github.com/nebula2024/BG/assets/165248011/634fb12d-9f67-4389-abb3-4b30f4821a78)
+![Simulator Screenshot - iPhone Xs Max - 2024-03-28 at 23 03 12](https://github.com/nebula2024/BG/assets/165248011/04e69a25-2f93-4a06-b371-174f6631479f)
