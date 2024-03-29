@@ -20,3 +20,9 @@ Main functions:
 -Clean up calendar
 -Clean up contacts
 -View system information
+
+![Simulator Screenshot - iPhone 8 Plus - 2024-03-28 at 23 21 08](https://github.com/nebula2024/BG/assets/165248011/c65fc4d6-3161-4c00-a7e4-e2870d559ea2)
+
+![Simulator Screenshot - iPhone 8 Plus - 2024-03-28 at 23 21 17](https://github.com/nebula2024/BG/assets/165248011/50a9dc93-bccb-4b0d-8afb-7d8f604954ad)
+
+![Simulator Screenshot - iPhone 8 Plus - 2024-03-28 at 23 21 26](https://github.com/nebula2024/BG/assets/165248011/634fb12d-9f67-4389-abb3-4b30f4821a78)
