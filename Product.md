@@ -19,7 +19,6 @@ Main functions:
 -Cleaning up oversized videos
 -Clean up calendar
 -Clean up contacts
--View system information
 
 ![Simulator Screenshot - iPhone Xs Max - 2024-03-28 at 23 01 40](https://github.com/nebula2024/BG/assets/165248011/3af39a7c-11f8-4915-95fa-adefa997c586)
 
