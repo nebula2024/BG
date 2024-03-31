@@ -10,6 +10,7 @@ Easily remove duplicate contacts, screenshots, similar images, and moving photos
 
 Easy one click cleaning of photos, videos, contacts, calendar, and reminders.
 Main functions:
+
 -Clean up duplicate photos and videos
 -Clean up similar photos
 -Clean up similar dynamic photos
